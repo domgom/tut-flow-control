@@ -15,3 +15,6 @@ Eventually we pull out a generic `async.parallel` clone module that when given a
 ## /promises
 
 Demonstrates from a similar starting point as `/async` how to manage the async operations using the `q` library.
+
+## /live stream
+https://www.youtube.com/watch?v=tb5H4tkBBCc
